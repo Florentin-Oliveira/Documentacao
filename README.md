@@ -1,6 +1,6 @@
 # Escopo do Projeto
 
-O objetivo do projeto é poder auxiliar as microempresas e profissionais autônomos na área de tecnologia baseando-se na entrega de ordens de serviço. Trás a proposta de ser uma interface simples e intuitiva para o usuário, diferente de sistemas que já existem no mercado, como as plataformas GLPI e Tasy.
+Devido ao grande número de aplicações web complexas relacionadas a ordens de serviço, que possuem extensos campos obrigatórios, surgiu a necessidade de criar um sistema simples e intuitivo, capaz de atender aos usuários.   O objetivo do projeto é poder auxiliar as microempresas e profissionais autônomos no setor de tecnologia, oferecendo uma plataforma para o gerenciamento de ordens de serviço. Ele se diferencia dos sistemas existentes no mercado, como GLPI e Tasy, promovendo uma alternativa mais acessível e eficiente.
 
 O principal intuito do aplicativo é priorizar a ordem de serviço (OS), classificando-as em nível de prioridade (alta, média ou baixa). Isso também inclui o tratamento dela, de forma que possamos alterar o seu status (novo, em andamento, em espera, concluído ou cancelado), adicionar anotações e anexos, e atribuir um responsável, gerar relatórios e links de formação de equipes. 
 
