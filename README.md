@@ -10,6 +10,10 @@ Ao acessar a plataforma, o técnico irá se deparar com uma tela que oferece as 
 |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/66921441?v=4" width=115><br><sub>Suzy Wellen Oliveira</sub>](https://github.com/SuzyWellen07) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/84157862?v=4" width=115><br><sub>Thais Florentin</sub>](https://github.com/LennyBla) |
 | :---: | :---: |
 
+---
+
+Instituto Federal do Paraná (IFPR) - Campus Foz do Iguaçu, PR – Brasil
+
 
 
 
